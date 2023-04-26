@@ -1,0 +1,41 @@
+hora_data	pousada_brasileiros	pousada_estrangeiros	noronha_brasileiros	noronha_estrangeiros	nivel_certeza	funcao_pousada	relacao_pousada	tempo_trabalha_pousada	tempo_mora_noronha	escolaridade	idade	genero	id_pousada	comentarios	tipo_questionario	uhs	golfinhos
+43685,47579	90	10	80	20	3	Recepção	Sou empregado(a) da pousada	1	1	Ensino Superior	30	Masculino	23		B	12	1
+43685,3927	90	10	70	30	3	Recepção	Sou empregado(a) da pousada	1	1	Ensino Superior	27	Feminino	27		B	16	1
+43686,50451	80	20	60	40	3	Camareira	Sou empregado(a) da pousada	1	1	Ensino Médio	25	Feminino	32		B	5	1
+43685,48502	98	2	90	10	4	Camareira	Sou empregado(a) da pousada	1,166666667	1,166666667	Ensino Médio	29	Feminino	70		B	5	2
+43686,59847	95	5	95	5	4	Reservas	Sou empregado(a) da pousada	1,6	10	Ensino Superior	30	Feminino	88		B	7	EC
+43683,73295	95	5	90	10	3	Gerência	Sou empregado(a) da pousada	0,416666667	10	Ensino Superior	28	Masculino	86		A	7	EC
+43685,58903	95	5	80	20	5	Recepção	Sou empregado(a) da pousada	10	13	Ensino Médio	40	Feminino	67		B	12	2
+43686,56606	85	15	80	20	5	Copeira	Sou empregado(a) da pousada	13	13	Ensino Médio	62	Feminino	36		A	5	1
+43683,68538	80	20	85	15	3	Reservas	Sou empregado(a) da pousada	2	14	Ensino Médio	42	Masculino	51		A	7	1
+43686,55296	92	8	90	10	5	Gerência	Sou empregado(a) da pousada	1	15	Ensino Superior	54	Masculino	75		B	21	3
+43686,48688	80	20	80	20	5	Camareira	Sou empregado(a) da pousada	1,583333333	17	Sem instrução formal	48	Feminino	41		A	6	1
+43685,45118	80	20	80	20	4	Copeira/Camareira	Sou empregado(a) da pousada	2	18	Ensino Médio	40	Feminino	13		B	6	1
+43684,38609	70	30	70	30	4	Recepção	Sou empregado(a) da pousada	1,6	2	Ensino Superior	33	Masculino	78		A	8	3
+43685,6114	80	20	80	20	4	Recepção	Sou empregado(a) da pousada	2	2	Ensino Superior	30	Feminino	42		A	14	1
+43686,39767	60	40	50	50	4	Auxiliar administrativa	Sou empregado(a) da pousada	2,416666667	2,416666667	Ensino Médio	25	Feminino	29		B	5	1
+43685,616	90	10	80	20	1	Recepção	Sou empregado(a) da pousada	1,6	2,5	Ensino Técnico	25	Feminino	40		B	3	1
+43685,5762	80	20	80	20	4	Recepção	Sou empregado(a) da pousada	0,416666667	2,5	Ensino Superior	30	Feminino	11		B	6	1
+43683,66549	80	20	60	40	4	Recepção	Sou empregado(a) da pousada	19	20	Ensino Técnico	37	Feminino	64		A	8	2
+43685,41754	90	10	80	20	5	Recepção	Sou empregado(a) da pousada	0,25	23	Ensino Superior	39	Feminino	39		B	8	1
+43685,40456	90	10	80	20	5	Reservas	A pousada é da minha família	3,6	24	Ensino Médio	24	Feminino	47		B	8	1
+43683,73913	70	30	50	50	5	Recepção	A pousada é da minha família	5	25	Ensino Médio	25	Feminino	84		A	4	EC
+43683,71073	75	25	60	40	3	Gerência	Sou empregado(a) da pousada	3	3	Ensino Superior	29	Feminino	63		A	21	2
+43685,6385	90	10	90	10	5	Camareira	Sou empregado(a) da pousada	0,25	0,25	Ensino Médio	21	Feminino	31		A	3	1
+43686,53045	100	0	80	20	4	Proprietária	Sou dono(a) da pousada	29	32	MBA/Especialização	52	Feminino	28		A	6	1
+43686,41821	95	5	90	10	5	Gerência	Sou dono(a) da pousada	16	35	Ensino Médio	35	Feminino	87		B	2	EC
+43686,39315	80	20	60	40	4	Gerência	Sou dono(a) da pousada	30	37	Ensino Médio	37	Feminino	54		A	12	1
+43685,55184	100	0	90	10	2	Gerência	A pousada é da minha família	15	38	Ensino Superior	38	Feminino	48		B	6	1
+43685,53328	70	30	70	30	4	Proprietária	Sou dono(a) da pousada	29	47	Ensino Fundamental	66	Feminino	69		B	8	2
+43683,71972	85	15	80	20	4	Gerência	Sou empregado(a) da pousada	1	5	Ensino Superior	28	Masculino	65		A	10	2
+43686,4106	70	30	70	30	2	Serviços gerais	Sou empregado(a) da pousada	5	5	Ensino Médio	61	Masculino	22		A	6	1
+43686,44086	90	10	70	30	3	Gerência	Sou empregado(a) da pousada	0,416666667	0,416666667	Ensino Superior	42	Feminino	97		A	5	EC
+43683,67836	90	10	70	30	3	Recepção	Sou empregado(a) da pousada	1	6	Ensino Superior	31	Feminino	6		A	7	1
+43684,38238	85	15	85	15	4	Gerência	Sou empregado(a) da pousada	0,5	0,5	Ensino Superior	33	Feminino	94		A	8	EC
+43686,46251	90	10	80	20	4	Recepção	Sou empregado(a) da pousada	0,5	0,5	Ensino Superior	29	Masculino	92		B	10	EC
+43686,46745	90	10	70	30	4	Recepção	Sou empregado(a) da pousada	8	8	Ensino Médio	41	Feminino	58		A	7	1
+43686,38925	60	40	70	30	5	Copeira	Sou empregado(a) da pousada	0,666666667	0,666666667	Ensino Médio	47	Feminino	60		B	4	1
+43683,69784	90	10	90	10	1	Camareira	Sou empregado(a) da pousada	2	9	Ensino Médio	60	Feminino	59		A	6	1
+43683,70617	90	10	80	20	5	Supervisora da pousada	Sou empregado(a) da pousada	3	9	Ensino Médio	48	Feminino	61	A respondente teve muita dificuldade em fornecer as estimativas. Acabei induzindo a resposta na pergunta sobre a certeza das estimativas.	A	8	1
+43685,53931	90	10	70	30	5	Reservas	Sou empregado(a) da pousada	9	9	Ensino Médio	38	Feminino	3		B	6	1
+43686,47911	90	10	80	20	4	Recepção	Sou empregado(a) da pousada	0,75	0,75	Ensino Superior	26	Masculino	79		B	8	3
